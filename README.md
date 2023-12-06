@@ -3,10 +3,10 @@ Kicad shield template for the Ksoloti Core.
 
 Ksoloti is based on the Axoloti by Johannes Taelman (johannes.taelman@gmail.com)
 
-Template by @sebiik
+Template by [@sebiik](https://github.com/sebiik)
 
-Axoloit website
+[Axoloit website](http://www.axoloti.com/)
 
-Ksoloiti website
+[Ksoloiti website](https://ksoloti.github.io/index.html)
 
 

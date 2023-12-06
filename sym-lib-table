@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ksoloti_shield_library")(type "KiCad")(uri "${KIPRJMOD}/ksoloti_v05_shield_library.kicad_sym")(options "")(descr ""))
+)
